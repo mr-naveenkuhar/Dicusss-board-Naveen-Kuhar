@@ -1,4 +1,50 @@
-# Project Plan
+# Discussion Board Project Plan
+
+## Group Members
+- Naveen Kuhar
+- Rukasna
+- Mandeep 
+
+## Classcode 
+- CP-S4 
+
+## Technologies Used
+
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) **TypeScript**: Frontend development.
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **React**: Backend development.
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) **Bootstrap**: Styling.
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) **SQL**: Database management.
+- ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) **Spring Security**: Authentication and security.
+
+## Timeline
+
+```
+Discussion Board Project Timeline
+
+Phase 1: Planning and Setup (1 day)
+├── Define project requirements
+├── Set up the development environment
+└── Create database schema and models
+
+Phase 2: Backend Development (2 days)
+├── Start with creating the discussion board functionality
+├── Add database integration and relationships
+└── Write unit tests for backend functionality
+
+Phase 3: Frontend Development (2 days)
+├── Develop UI components using Bootstrap for styling
+├── Integrate frontend with backend API
+└── Implement responsive design
+
+Phase 4: Security and Deployment (1 day)
+├── Add Spring Security for authentication and authorization
+├── Conduct end-to-end testing
+└── Deploy the application to a production environment
+```
+
+## Screenshots
+
+![Application Screenshot](public/Screenshots/image.png)
 
 ## Project Goal
 The project aims to develop a comprehensive discussion board application where users can register, create threads, post messages, and interact with others. The application will feature user authentication, thread management, and a responsive user interface.
@@ -40,12 +86,6 @@ The project aims to develop a comprehensive discussion board application where u
 - **Error Handling**:
   - Backend: Centralized error handling middleware for API responses.
   - Frontend: User-friendly error messages displayed in the UI.
-
-## Timeline
-- **Phase 1 (2 weeks)**: Planning, environment setup, database schema creation.
-- **Phase 2 (4 weeks)**: Backend API development, database relationships, and unit testing.
-- **Phase 3 (4 weeks)**: Frontend development, API integration, and responsive design.
-- **Phase 4 (2 weeks)**: End-to-end testing, bug fixes, and deployment.
 
 ## Risks
 - **Database Issues**: Connection problems or schema conflicts.
