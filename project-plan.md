@@ -1,9 +1,9 @@
 # Discussion Board Project Plan
 
-## Group Members
-- Naveen Kuhar
-- Rukasna
-- Mandeep 
+## Group Members and Roles
+- Naveen Kuhar - Backend
+- Rukasna - Frontend
+- Mandeep - Security
 
 ## Classcode 
 - CP-S4 
